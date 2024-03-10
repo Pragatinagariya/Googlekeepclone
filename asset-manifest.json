@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my%20ggoglekeep/static/css/main.ea6958a7.css",
+    "main.js": "/my%20ggoglekeep/static/js/main.0c15ada8.js",
+    "static/media/logo.png": "/my%20ggoglekeep/static/media/logo.4eb9a19b5a3418555a28.png",
+    "index.html": "/my%20ggoglekeep/index.html",
+    "main.ea6958a7.css.map": "/my%20ggoglekeep/static/css/main.ea6958a7.css.map",
+    "main.0c15ada8.js.map": "/my%20ggoglekeep/static/js/main.0c15ada8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea6958a7.css",
+    "static/js/main.0c15ada8.js"
+  ]
+}
